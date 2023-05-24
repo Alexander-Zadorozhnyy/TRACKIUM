@@ -1,6 +1,5 @@
 import datetime
 
-import deal as deal
 from flet import *
 
 from pages.AddPages.add_abstruct import AddAbstract
