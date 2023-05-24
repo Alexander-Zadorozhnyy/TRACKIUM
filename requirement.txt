@@ -1,0 +1,5 @@
+flet==0.4.2
+plotly
+kaleido
+urlparse3
+psycopg2
