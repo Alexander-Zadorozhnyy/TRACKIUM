@@ -406,4 +406,4 @@ class App(UserControl):
 
 
 if __name__ == "__main__":
-    app(target=App, assets_dir='assets')
+    app(target=App, assets_dir='assets', host='0.0.0.0')
